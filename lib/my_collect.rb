@@ -5,3 +5,4 @@ def hamburger(toppings)
     "I love #{topping} on my burgers"
   end
 end
+
