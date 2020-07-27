@@ -6,5 +6,5 @@ def my_collect(array)
     end
   array do |name|
   name.split(" ").first  
+ end
 end
-
